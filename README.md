@@ -3,4 +3,5 @@ Embedding text data into image
 
 **Tech Stack:**
 Python Tinker
+
 ![image](https://github.com/ajitpal0821/Steganography/assets/107208518/a03fb3c0-2c3e-4ab8-bde5-8e0077369cb5)
